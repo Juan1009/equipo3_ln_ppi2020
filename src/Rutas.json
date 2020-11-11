@@ -1,0 +1,16 @@
+{
+  "Rutas": [
+    {
+      "CardTitle": "Asesor",
+      "Parrafo": "John Faber Florez"
+    },
+    {
+      "CardTitle": "Docente",
+      "Parrafo": "Silvia Garcia"
+    },
+    {
+      "CardTitle": "Docente",
+      "Parrafo": "Carlos Mario Velasquez"
+    }
+  ]
+}
